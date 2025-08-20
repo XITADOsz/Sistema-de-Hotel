@@ -1,1 +1,9 @@
-.gitignore
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Pastas do sistema
+.DS_Store
+Thumbs.db
+
